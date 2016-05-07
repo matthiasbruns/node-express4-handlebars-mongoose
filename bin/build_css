@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir -p ./public/css && node-sass \
+  --output-style compressed \
+  --include-path assets/css \
+  ./assets/css/style.scss ./public/css/style.css

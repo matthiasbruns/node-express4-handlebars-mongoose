@@ -1,0 +1,5 @@
+{
+	"app": "node-express4-handlebars-mongoose",
+	"greeting": "Hallo!",
+	"about": "Über uns"
+}

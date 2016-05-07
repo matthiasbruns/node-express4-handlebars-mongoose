@@ -1,0 +1,10 @@
+{
+  "baseurl": "http://localhost:3000",
+  "sessionSecret": "SOME COOL SECRET",
+  "database": {
+    "host": "localhost",
+    "db": "GIVE_ME_A_COOL_NAME",
+    "user": "",
+    "password": ""
+  }
+}
